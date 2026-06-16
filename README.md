@@ -98,16 +98,11 @@ Attempts taken: 3
 ---
 
 ## Demo
-
-Rename your screenshot file to:
-
+Screenshot of terminal.
 ```text
-game_output.png
+number_guessing_game_demo.png
 ```
-
-Then place it inside the repository and GitHub will automatically display it below:
-
-![Game Output](game_output.png)
+![Game Output](number_guessing_game_demo.png)
 
 ---
 
